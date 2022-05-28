@@ -1,7 +1,7 @@
 # MultiAgentAIGym
 
-This gym mimics other OpenAI gyms
-
+A simple multi-agent environment for training RL-algorithms
+![](https://github.com/VSvensli/MultiAgentAIGym/blob/main/docs/Environment%20example.png)
 
 
 ## Example
